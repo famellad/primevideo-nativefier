@@ -1,0 +1,52 @@
+/* Type your CSS code here. */
+
+.pv-nav-primary-components {
+    margin-right: 40px !important;
+}
+
+#pv-search-nav {
+    margin-right: 42px !important;
+}
+
+#pv-nav, .pv-nav-search-reset {
+    height: 47px !important;
+}
+
+#pv-nav {
+    -webkit-app-region: drag;
+}
+
+#pv-nav-logo, #pv-nav-locales, .pv-nav-accounts-single-link, #pv-nav-main-menu li, .pv-nav-search, #pv-search-nav, #pv-nav-accounts-cerberus, .pv-nav-main-menu-label {
+    -webkit-app-region: no-drag;
+}
+
+.secondary-navigation {
+    margin-right: 16px !important;
+}
+
+#close-button {
+    position: fixed;
+    padding-top: 4px;
+    top: 0px;
+    right: 0px;
+    z-index: 999;
+}
+
+#buttons-container {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 41px;
+    height: 41px;
+    z-index: 99;
+}
+
+/* Get the player on top of everything
+.sizing-wrapper {
+    z-index: 100 !important;
+} */
+
+/* Hide scrollbar */
+*::-webkit-scrollbar {
+  display: none;
+ }

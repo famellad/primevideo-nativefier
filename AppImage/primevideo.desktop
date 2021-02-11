@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Prime Video
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=primevideo
+StartupWMClass=Prime Video
+Comment=Prime Video desktop app, DRM enabled.
+Categories=AudioVideo;
